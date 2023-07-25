@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! from srikanth,today is tuesday</h2>
+<h2>Hello World! from srikanth,full name  is srikanth</h2>
 </body>
 </html>
